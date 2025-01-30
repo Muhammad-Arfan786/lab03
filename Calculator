@@ -1,4 +1,2 @@
-int x = 20;
+int x = 70;
 int y=10;
-z=x+y;
-Console.WriteLine(z);
